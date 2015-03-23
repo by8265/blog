@@ -41,6 +41,9 @@ highlight:
   enable: true
   line_number: true
   tab_replace:
+  
+disqus_shortname: anubs 
+duoshuo_shortname: anubs 
 
 # Category & Tag
 default_category: uncategorized
